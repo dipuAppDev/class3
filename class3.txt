@@ -1,0 +1,24 @@
+#Git download and Install
+
+#Apply Git commands using git bash
+----------------------------------
+
+19. Revert some existing commits : git revert commit-id
+
+20. Reset the current HEAD to the specified state : git reset --mixed commit-id
+
+21. To send or push something on remote repository : git push || git push origin branch-name 	
+
+22. To clone any project from github : git clone "project repo link"
+
+23. To get or pull something on github repository to local directory : git pull || git pull origin branch-name
+
+24. To see how many branch we have : git branch
+
+25. To create a new branch : git branch branch-name
+
+26. To change || switch branch : git checkout branch-name
+
+28. Git checkout and create together : git checkout -b branch-name
+
+29. To merge branch : git merge branch-name(we get data from which branch)
