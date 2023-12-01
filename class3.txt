@@ -1,5 +1,3 @@
-#Git download and Install
-
 #Apply Git commands using git bash
 ----------------------------------
 
